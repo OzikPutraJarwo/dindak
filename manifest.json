@@ -1,0 +1,16 @@
+{
+  "short_name": "TryOut Dindak",
+  "name": "TryOut UTBK Dindak",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-Ut0Ibf0owo4/XrOVJEuq9MI/AAAAAAAAAHA/vqOnvOtAXiU3_uoQ6WpPgV9MmwNHFVn0ACLcBGAsYHQ/s192/IMG-20200428-WA0091.jpg",
+      "sizes": "192x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation":"portrait",
+  "background_color": "#19abea",
+  "theme_color":"#19abea"
+}
